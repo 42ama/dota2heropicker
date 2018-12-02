@@ -1,0 +1,11 @@
+Tank
+Healer
+Farm
+PhysDmg
+MagDmg
+Control
+Jungle
+Push
+StrongLine
+Solo
+Movement

@@ -1,0 +1,113 @@
+Abaddon;{'Tank': '1', 'Farm': '2', 'PhysDmg': '2', 'StrongLine': '2', 'Solo': '1'}
+Alchemist;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'Control': '1', 'Push': '2'}
+AncientApparition;{'MagDmg': '3', 'Control': '1', 'StrongLine': '1'}
+AntiMage;{'Farm': '3', 'PhysDmg': '3', 'Movement': '2'}
+ArcWarden;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'Push': '3', 'StrongLine': '1'}
+Axe;{'Tank': '3', 'Farm': '1', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'Jungle': '2', 'Push': '1', 'StrongLine': '3', 'Solo': '3'}
+Bane;{'MagDmg': '2', 'Control': '3', 'StrongLine': '2'}
+Batrider;{'MagDmg': '2', 'Control': '3', 'Jungle': '1', 'Solo': '2', 'Movement': '3'}
+Beastmaster;{'Tank': '2', 'Farm': '2', 'PhysDmg': '2', 'Control': '2', 'Jungle': '3', 'Push': '3', 'StrongLine': '2', 'Solo': '2'}
+Bloodseeker;{'Farm': '2', 'PhysDmg': '3', 'MagDmg': '3', 'Control': '1', 'Jungle': '2', 'StrongLine': '2', 'Movement': '2'}
+BountyHunter;{'Farm': '2', 'PhysDmg': '3', 'Control': '1', 'Solo': '1', 'Movement': '1'}
+Brewmaster;{'Tank': '2', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'StrongLine': '2', 'Solo': '2'}
+Bristleback;{'Tank': '3', 'Farm': '1', 'PhysDmg': '1', 'StrongLine': '3', 'Solo': '3'}
+Broodmother;{'Farm': '2', 'PhysDmg': '2', 'Jungle': '1', 'Push': '3', 'StrongLine': '2', 'Solo': '2', 'Movement': '2'}
+CentaurWarrunner;{'Tank': '3', 'Farm': '1', 'PhysDmg': '1', 'MagDmg': '2', 'Control': '2', 'Jungle': '1', 'StrongLine': '3', 'Solo': '3', 'Movement': '2'}
+ChaosKnight;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Push': '3'}
+Chen;{'Healer': '2', 'MagDmg': '1', 'Control': '1', 'Jungle': '3', 'Push': '2'}
+Clinkz;{'Farm': '3', 'PhysDmg': '3', 'Push': '2', 'StrongLine': '1', 'Movement': '1'}
+Clockwerk;{'Tank': '2', 'MagDmg': '2', 'Control': '2', 'Solo': '2'}
+CrystalMaiden;{'MagDmg': '3', 'Control': '2', 'StrongLine': '2'}
+DarkSeer;{'Tank': '1', 'MagDmg': '3', 'Control': '1', 'Jungle': '1', 'StrongLine': '2', 'Solo': '2', 'Movement': '2'}
+DarkWillow;{'PhysDmg': '1', 'MagDmg': '3', 'Control': '3', 'StrongLine': '2', 'Movement': '1'}
+Dazzle;{'Healer': '3', 'MagDmg': '2', 'StrongLine': '2'}
+DeathProphet;{'Tank': '1', 'Farm': '2', 'MagDmg': '3', 'Control': '1', 'Push': '3'}
+Disruptor;{'MagDmg': '1', 'Control': '3', 'StrongLine': '1'}
+Doom;{'Tank': '2', 'Farm': '3', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'Jungle': '2', 'StrongLine': '1', 'Solo': '2'}
+DragonKnight;{'Tank': '3', 'Farm': '3', 'PhysDmg': '3', 'Control': '2', 'Push': '3', 'StrongLine': '1'}
+DrowRanger;{'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Push': '2'}
+EarthSpirit;{'MagDmg': '3', 'Control': '3', 'StrongLine': '2', 'Movement': '2'}
+Earthshaker;{'PhysDmg': '1', 'MagDmg': '3', 'Control': '3', 'StrongLine': '1'}
+ElderTitan;{'MagDmg': '3', 'Control': '2', 'StrongLine': '1'}
+EmberSpirit;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '2', 'Control': '1', 'Push': '1', 'Movement': '3'}
+Enchantress;{'Tank': '1', 'Healer': '2', 'Farm': '2', 'MagDmg': '3', 'Jungle': '3', 'StrongLine': '1', 'Solo': '2'}
+Enigma;{'Farm': '2', 'MagDmg': '3', 'Control': '3', 'Jungle': '3', 'Push': '2'}
+FacelessVoid;{'Farm': '3', 'PhysDmg': '3', 'Control': '2', 'Solo': '1', 'Movement': '2'}
+Gyrocopter;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '2', 'Push': '1', 'StrongLine': '1'}
+Huskar;{'Tank': '3', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '1', 'StrongLine': '3', 'Solo': '1'}
+Invoker;{'Farm': '3', 'PhysDmg': '1', 'MagDmg': '3', 'Control': '3', 'Movement': '1'}
+Io;{'Healer': '3', 'StrongLine': '2', 'Movement': '2'}
+Jakiro;{'MagDmg': '3', 'Control': '1', 'Push': '2', 'StrongLine': '2'}
+Juggernaut;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '2', 'Jungle': '1', 'StrongLine': '1'}
+KeeperoftheLight;{'Healer': '1', 'MagDmg': '2', 'Control': '3', 'Push': '1', 'StrongLine': '2'}
+Kunkka;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'Control': '2', 'Push': '1', 'StrongLine': '2'}
+LegionCommander;{'Tank': '1', 'Healer': '1', 'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Jungle': '1', 'Solo': '1'}
+Leshrac;{'Farm': '1', 'MagDmg': '3', 'Control': '2', 'Push': '2', 'StrongLine': '1'}
+Lich;{'MagDmg': '3', 'Control': '1', 'StrongLine': '3'}
+Lifestealer;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'Jungle': '3'}
+Lina;{'Farm': '2', 'PhysDmg': '2', 'MagDmg': '3', 'Control': '1', 'StrongLine': '1'}
+Lion;{'MagDmg': '3', 'Control': '3', 'StrongLine': '2'}
+LoneDruid;{'Tank': '2', 'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Jungle': '3', 'Push': '3', 'StrongLine': '3', 'Solo': '2'}
+Luna;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'Push': '3', 'StrongLine': '1'}
+Lycan;{'Farm': '3', 'PhysDmg': '3', 'Jungle': '3', 'Push': '3', 'StrongLine': '1', 'Movement': '2'}
+Magnus;{'Tank': '1', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '3', 'StrongLine': '1', 'Solo': '2', 'Movement': '1'}
+Medusa;{'Tank': '3', 'Farm': '3', 'PhysDmg': '3', 'Control': '2', 'StrongLine': '1'}
+Meepo;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '3', 'Control': '2', 'Jungle': '1', 'Push': '3', 'StrongLine': '2', 'Solo': '3', 'Movement': '3'}
+Mirana;{'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'Movement': '3'}
+Morphling;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'MagDmg': '3', 'Push': '2', 'StrongLine': '1', 'Movement': '1'}
+NagaSiren;{'Farm': '3', 'PhysDmg': '3', 'Control': '3', 'Push': '3'}
+NaturesProphet;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'Jungle': '3', 'Push': '3', 'Movement': '3'}
+Necrophos;{'Tank': '1', 'Healer': '2', 'Farm': '3', 'PhysDmg': '1', 'MagDmg': '3', 'Control': '2', 'StrongLine': '1'}
+NightStalker;{'Tank': '2', 'Farm': '2', 'PhysDmg': '2', 'Control': '2', 'StrongLine': '2', 'Solo': '1', 'Movement': '2'}
+NyxAssassin;{'Tank': '1', 'Farm': '1', 'PhysDmg': '3', 'MagDmg': '3', 'Control': '2', 'StrongLine': '1', 'Solo': '2', 'Movement': '2'}
+OgreMagi;{'Tank': '1', 'Farm': '1', 'MagDmg': '3', 'Control': '2', 'StrongLine': '2'}
+Omniknight;{'Tank': '1', 'Healer': '3', 'Farm': '1', 'PhysDmg': '2'}
+Oracle;{'Healer': '3', 'MagDmg': '2', 'Control': '1', 'StrongLine': '2'}
+OutworldDevourer;{'Farm': '3', 'PhysDmg': '1', 'MagDmg': '3', 'Control': '1'}
+Pangolier;{'Tank': '1', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'StrongLine': '2', 'Solo': '2', 'Movement': '3'}
+PhantomAssassin;{'Farm': '3', 'PhysDmg': '3', 'StrongLine': '1', 'Movement': '1'}
+PhantomLancer;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'Push': '2', 'StrongLine': '1', 'Movement': '2'}
+Phoenix;{'Tank': '2', 'Healer': '2', 'Farm': '1', 'MagDmg': '3', 'Control': '2', 'StrongLine': '2', 'Solo': '3', 'Movement': '2'}
+Puck;{'Farm': '2', 'MagDmg': '2', 'Control': '3', 'Movement': '3'}
+Pudge;{'Tank': '3', 'MagDmg': '2', 'Control': '2'}
+Pugna;{'Healer': '2', 'Farm': '2', 'MagDmg': '3', 'Control': '1', 'Push': '2', 'StrongLine': '1'}
+QueenofPain;{'Farm': '3', 'PhysDmg': '1', 'MagDmg': '3', 'Control': '1', 'StrongLine': '1', 'Solo': '1', 'Movement': '2'}
+Razor;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'Push': '2', 'StrongLine': '1', 'Movement': '1'}
+Riki;{'Farm': '2', 'PhysDmg': '3', 'Control': '1', 'Solo': '1', 'Movement': '1'}
+Rubick;{'Farm': '1', 'MagDmg': '3', 'Control': '3'}
+SandKing;{'Tank': '1', 'MagDmg': '3', 'Control': '2', 'Jungle': '1', 'Push': '1', 'StrongLine': '2', 'Solo': '2', 'Movement': '2'}
+ShadowDemon;{'MagDmg': '3', 'Control': '2', 'StrongLine': '3'}
+ShadowFiend;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '2', 'Push': '2', 'StrongLine': '1'}
+ShadowShaman;{'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'Push': '3', 'StrongLine': '2'}
+Silencer;{'Farm': '2', 'PhysDmg': '2', 'MagDmg': '1', 'Control': '2', 'StrongLine': '1'}
+SkywrathMage;{'Farm': '2', 'MagDmg': '3', 'Control': '1', 'StrongLine': '2'}
+Slardar;{'Tank': '2', 'Farm': '1', 'PhysDmg': '2', 'Control': '2', 'StrongLine': '2', 'Solo': '2', 'Movement': '2'}
+Slark;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'StrongLine': '2', 'Movement': '3'}
+Sniper;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'StrongLine': '1'}
+Spectre;{'Tank': '3', 'Farm': '3', 'PhysDmg': '3', 'Movement': '2'}
+SpiritBreaker;{'Tank': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'StrongLine': '2', 'Solo': '2', 'Movement': '3'}
+StormSpirit;{'Farm': '3', 'PhysDmg': '1', 'MagDmg': '3', 'Control': '2', 'Movement': '3'}
+Sven;{'Tank': '2', 'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Push': '2', 'StrongLine': '1'}
+Techies;{'PhysDmg': '2', 'MagDmg': '3', 'Control': '1'}
+TemplarAssassin;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'StrongLine': '1'}
+Terrorblade;{'Tank': '1', 'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Push': '3', 'StrongLine': '2'}
+Tidehunter;{'Tank': '3', 'MagDmg': '3', 'Control': '3', 'StrongLine': '2', 'Solo': '3'}
+Timbersaw;{'Tank': '3', 'Farm': '2', 'MagDmg': '3', 'StrongLine': '1', 'Solo': '3', 'Movement': '2'}
+Tinker;{'Farm': '3', 'MagDmg': '3', 'Control': '3', 'Push': '3', 'Movement': '3'}
+Tiny;{'Tank': '1', 'Farm': '2', 'PhysDmg': '3', 'MagDmg': '3', 'Control': '1', 'StrongLine': '2', 'Solo': '1'}
+TreantProtector;{'Tank': '2', 'Healer': '2', 'PhysDmg': '1', 'MagDmg': '1', 'Control': '3', 'StrongLine': '1', 'Solo': '1', 'Movement': '2'}
+TrollWarlord;{'Farm': '3', 'PhysDmg': '3', 'MagDmg': '1', 'Control': '1', 'Jungle': '2', 'Push': '2', 'StrongLine': '2', 'Solo': '1'}
+Tusk;{'Tank': '1', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '2', 'StrongLine': '2', 'Movement': '1'}
+Undying;{'Tank': '3', 'Healer': '2', 'MagDmg': '2', 'Control': '1', 'StrongLine': '3', 'Solo': '2'}
+Ursa;{'Tank': '2', 'Farm': '3', 'PhysDmg': '3', 'Jungle': '1', 'StrongLine': '2'}
+VengefulSpirit;{'Tank': '1', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '1', 'Control': '2', 'StrongLine': '3', 'Movement': '1'}
+Venomancer;{'Farm': '1', 'MagDmg': '3', 'Control': '1', 'Jungle': '2', 'Push': '1', 'StrongLine': '1'}
+Viper;{'Tank': '2', 'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '1', 'StrongLine': '3', 'Solo': '1'}
+Visage;{'Tank': '1', 'Farm': '2', 'PhysDmg': '3', 'MagDmg': '2', 'Control': '1', 'Push': '2', 'StrongLine': '1', 'Movement': '1'}
+Warlock;{'MagDmg': '3', 'Control': '3', 'Push': '2', 'StrongLine': '1'}
+Weaver;{'Healer': '1', 'Farm': '3', 'PhysDmg': '3', 'Push': '2', 'StrongLine': '1', 'Solo': '2', 'Movement': '3'}
+Windranger;{'Farm': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '1', 'Push': '2', 'StrongLine': '1', 'Solo': '1', 'Movement': '1'}
+WinterWyvern;{'Healer': '2', 'MagDmg': '3', 'Control': '3', 'StrongLine': '2', 'Movement': '1'}
+WitchDoctor;{'Healer': '2', 'PhysDmg': '2', 'MagDmg': '2', 'Control': '1', 'StrongLine': '1'}
+WraithKing;{'Tank': '2', 'Farm': '3', 'PhysDmg': '3', 'Control': '1', 'Jungle': '1', 'StrongLine': '2'}
+Zeus;{'Farm': '3', 'MagDmg': '3', 'Control': '1', 'StrongLine': '2'}
